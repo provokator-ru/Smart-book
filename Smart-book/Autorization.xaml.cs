@@ -16,14 +16,18 @@ using System.Windows.Shapes;
 namespace Smart_book
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Autorization.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Autorization : Page
     {
-        public MainWindow()
+        public Autorization()
         {
             InitializeComponent();
-            MainFrame.Content = new Autorization();
+        }
+
+        private void Voiti_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Courses());
         }
     }
 }

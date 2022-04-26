@@ -16,14 +16,18 @@ using System.Windows.Shapes;
 namespace Smart_book
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Courses.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Courses : Page
     {
-        public MainWindow()
+        public Courses()
         {
             InitializeComponent();
-            MainFrame.Content = new Autorization();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

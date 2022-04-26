@@ -7,17 +7,5 @@
         mc:Ignorable="d"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         Title="Smartbook" Height="600" Width="900">
-    <Grid Background="Gray">
-        <Border Background="White" MinWidth="400" VerticalAlignment="Center" Margin="15" Padding="40" MaxWidth="550" CornerRadius="20">
-            <Border.Effect>
-                <DropShadowEffect BlurRadius="30" Color="Black" ShadowDepth="0"/>
-            </Border.Effect>
-            <StackPanel>
-                <TextBlock Text="Авторизация" FontSize="30" FontWeight="Bold" Margin="150 0 0 20"/>
-                <TextBox materialDesign:HintAssist.Hint="Введите почту" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
-                <TextBox materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
-                <Button HorizontalAlignment="Center" Content="Войти" Margin="0 20"/>
-            </StackPanel>
-        </Border>
-    </Grid>
+    <Frame  Name="MainFrame" Background="White" NavigationUIVisibility="Hidden"/>
 </Window>
