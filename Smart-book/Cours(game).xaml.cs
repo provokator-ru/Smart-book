@@ -16,18 +16,18 @@ using System.Windows.Shapes;
 namespace Smart_book
 {
     /// <summary>
-    /// Логика взаимодействия для Courses.xaml
+    /// Логика взаимодействия для Cours_game_.xaml
     /// </summary>
-    public partial class Courses : Page
+    public partial class Cours_game_ : Page
     {
-        public Courses()
+        public Cours_game_()
         {
             InitializeComponent();
         }
 
-        private void But1_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Cours_game_());
+
         }
     }
 }
