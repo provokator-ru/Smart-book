@@ -20,6 +20,6 @@
         <Button Background="ForestGreen" Content="Шаг8" HorizontalAlignment="Left" Margin="30,480,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
         <Button Background="#F07978" Content="Шаг9" HorizontalAlignment="Left" Margin="30,526,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
         <ListBox  Background="#2E1C27" HorizontalAlignment="Center" Height="456" Margin="224,49,28,95" VerticalAlignment="Center" Width="648"/>
-        <Image Source="img/profile.png" Margin="30,21,729,440" VerticalAlignment="Center" HorizontalAlignment="Center" Height="139" Width="141"/>
+        <Image Source="profile.png" Margin="30,21,729,440" VerticalAlignment="Center" HorizontalAlignment="Center" Height="139" Width="141"/>
     </Grid>
 </Page>

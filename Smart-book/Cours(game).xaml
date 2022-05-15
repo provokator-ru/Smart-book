@@ -9,7 +9,7 @@
       Title="Cours_game_">
 
     <Grid Background="White">
-        <Image Source="img/profile.png" Margin="30,21,729,440" VerticalAlignment="Center" HorizontalAlignment="Center" Height="139" Width="141"/>
+        <Image Source="profile.png" Margin="30,21,729,440" VerticalAlignment="Center" HorizontalAlignment="Center" Height="139" Width="141"/>
         <TextBlock Background="#2E1C27" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="402,526,232,34" TextWrapping="Wrap" Text="Введение" VerticalAlignment="Center" Width="266" />
         <Button Background="Gray" Content="Шаг1" HorizontalAlignment="Left" Margin="30,165,0,0" VerticalAlignment="Top" Width="141" Height="40" Click="Button_Click"/>
         <Button Background="Gray" Content="Шаг2" HorizontalAlignment="Left" Margin="30,210,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
