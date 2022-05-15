@@ -16,8 +16,8 @@
             </Border.Effect>
             <StackPanel>
                 <TextBlock Text="Авторизация" FontSize="30" FontWeight="Bold" Margin="150 0 0 20"/>
-                <TextBox materialDesign:HintAssist.Hint="Введите почту" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
-                <TextBox materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <TextBox materialDesign:HintAssist.Hint="Введите почту" Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                <TextBox materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
                 <Button x:Name="Voiti" HorizontalAlignment="Center" Content="Войти" Margin="0 20" Click="Voiti_Click"/>
             </StackPanel>
         </Border>

@@ -10,7 +10,7 @@
 
     <Grid Background="White">
         <TextBlock Background="#2E1C27" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="402,526,232,34" TextWrapping="Wrap" Text="Шаг 5" VerticalAlignment="Center" Width="266" />
-        <Button Background="#F07978" Content="Шаг1" HorizontalAlignment="Left" Margin="30,165,0,0" VerticalAlignment="Top" Width="141" Height="40" Click="Button_Click"/>
+        <Button Background="#F07978" Content="Шаг1" HorizontalAlignment="Left" Margin="30,165,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
         <Button Background="#F07978" Content="Шаг2" HorizontalAlignment="Left" Margin="30,210,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
         <Button Background="#F07978" Content="Шаг3" HorizontalAlignment="Left" Margin="30,255,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
         <Button Background="#F07978" Content="Шаг4" HorizontalAlignment="Left" Margin="30,300,0,0" VerticalAlignment="Top" Width="141" Height="41"/>

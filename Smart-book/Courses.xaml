@@ -11,10 +11,10 @@
     <Grid Background="White">
         <TextBlock FontSize="30" HorizontalAlignment="Center" Margin="349,40,341,500" Text="Список курсов" VerticalAlignment="Center" Height="60" Width="210"/>
         <Button x:Name="But1" Content="Создание игры. Найди пару!" HorizontalAlignment="Center" Margin="44,167,616,291" VerticalAlignment="Center" Width="240" Height="142" Click="But1_Click"/>
-        <Button x:Name="But2" Content="...." HorizontalAlignment="Center" Margin="332,167,328,291" VerticalAlignment="Center" Width="240" Height="142"/>
-        <Button x:Name="But3" Content="...." HorizontalAlignment="Center" Margin="619,167,41,291" VerticalAlignment="Center" Width="240" Height="142"/>
-        <Button x:Name="But4" Content="...." HorizontalAlignment="Center" Margin="332,384,328,74" VerticalAlignment="Center" Width="240" Height="142"/>
-        <Button x:Name="But5" Content="...." HorizontalAlignment="Center" Margin="44,384,616,74" VerticalAlignment="Center" Width="240" Height="142"/>
-        <Button x:Name="But6" Content="...." HorizontalAlignment="Center" Margin="619,384,41,74" VerticalAlignment="Center" Width="240" Height="142"/>
+        <Button x:Name="But2" Content="Курс в разработке" HorizontalAlignment="Center" Margin="332,167,328,291" VerticalAlignment="Center" Width="240" Height="142"/>
+        <Button x:Name="But3" Content="Курс в разработке" HorizontalAlignment="Center" Margin="619,167,41,291" VerticalAlignment="Center" Width="240" Height="142"/>
+        <Button x:Name="But4" Content="Курс в разработке" HorizontalAlignment="Center" Margin="332,384,328,74" VerticalAlignment="Center" Width="240" Height="142"/>
+        <Button x:Name="But5" Content="Курс в разработке" HorizontalAlignment="Center" Margin="44,384,616,74" VerticalAlignment="Center" Width="240" Height="142"/>
+        <Button x:Name="But6" Content="Курс в разработке" HorizontalAlignment="Center" Margin="619,384,41,74" VerticalAlignment="Center" Width="240" Height="142"/>
     </Grid>
 </Page>
