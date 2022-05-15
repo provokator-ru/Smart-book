@@ -10,15 +10,15 @@
 
     <Grid Background="White">
         <TextBlock Background="#2E1C27" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="402,526,232,34" TextWrapping="Wrap" Text="Шаг 7" VerticalAlignment="Center" Width="266" />
-        <Button Background="#F07978" Content="Шаг1" HorizontalAlignment="Left" Margin="30,165,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
-        <Button Background="#F07978" Content="Шаг2" HorizontalAlignment="Left" Margin="30,210,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг3" HorizontalAlignment="Left" Margin="30,255,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
-        <Button Background="#F07978" Content="Шаг4" HorizontalAlignment="Left" Margin="30,300,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг5" HorizontalAlignment="Left" Margin="30,345,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг6" HorizontalAlignment="Left" Margin="30,390,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг1" HorizontalAlignment="Left" Margin="30,165,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
+        <Button Background="ForestGreen" Content="Шаг2" HorizontalAlignment="Left" Margin="30,210,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг3" HorizontalAlignment="Left" Margin="30,255,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
+        <Button Background="ForestGreen" Content="Шаг4" HorizontalAlignment="Left" Margin="30,300,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг5" HorizontalAlignment="Left" Margin="30,345,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг6" HorizontalAlignment="Left" Margin="30,390,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
         <Button Background="#F07978" Content="Шаг7" HorizontalAlignment="Left" Margin="30,435,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг8" HorizontalAlignment="Left" Margin="30,480,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг9" HorizontalAlignment="Left" Margin="30,526,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
-        <ListBox  Background="#2E1C27" HorizontalAlignment="Left" Height="457" Margin="214,57,0,0" VerticalAlignment="Top" Width="626"/>
+        <Button Background="Gray" Content="Шаг8" HorizontalAlignment="Left" Margin="30,480,0,0" VerticalAlignment="Top" Width="141" Height="41" Click="Button_Click"/>
+        <Button Background="Gray" Content="Шаг9" HorizontalAlignment="Left" Margin="30,526,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
+        <ListBox  Background="#2E1C27" HorizontalAlignment="Center" Height="456" Margin="224,49,28,95" VerticalAlignment="Center" Width="648"/>
     </Grid>
 </Page>
