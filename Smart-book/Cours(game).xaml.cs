@@ -29,5 +29,10 @@ namespace Smart_book
         {
             NavigationService.Navigate(new Step1());
         }
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
