@@ -21,5 +21,6 @@
         <Button Background="Gray" Content="Шаг9" HorizontalAlignment="Left" Margin="30,526,0,0" VerticalAlignment="Top" Width="141" Height="40" Click="Button_Click"/>
         <ListBox  Background="#2E1C27" HorizontalAlignment="Center" Height="456" Margin="224,49,28,95" VerticalAlignment="Center" Width="648"/>
         <Image Source="profile.png" Margin="30,21,729,440" VerticalAlignment="Center" HorizontalAlignment="Center" Height="139" Width="141"/>
+        <Button Background="#E5B86D" Content="Следующий шаг" HorizontalAlignment="Center" Margin="731,526,28,34" VerticalAlignment="Center" Width="141" Height="40" Click="Button_Click"/>
     </Grid>
 </Page>
