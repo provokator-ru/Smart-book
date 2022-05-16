@@ -28,5 +28,10 @@ namespace Smart_book
         {
             NavigationService.Navigate(new Step8());
         }
+
+        private void Button1_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Step6());
+        }
     }
 }

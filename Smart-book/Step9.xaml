@@ -5,22 +5,23 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:Smart_book"
       mc:Ignorable="d" 
-      d:DesignHeight="600" d:DesignWidth="900"
+      Height="600" Width="900"
       Title="Step9">
 
     <Grid Background="White">
         <TextBlock Background="#2E1C27" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="402,526,232,34" TextWrapping="Wrap" Text="Шаг 9" VerticalAlignment="Center" Width="266" />
-        <Button Background="ForestGreen" Content="Шаг1" HorizontalAlignment="Left" Margin="30,165,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
-        <Button Background="ForestGreen" Content="Шаг2" HorizontalAlignment="Left" Margin="30,210,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="ForestGreen" Content="Шаг3" HorizontalAlignment="Left" Margin="30,255,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
-        <Button Background="ForestGreen" Content="Шаг4" HorizontalAlignment="Left" Margin="30,300,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="ForestGreen" Content="Шаг5" HorizontalAlignment="Left" Margin="30,345,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="ForestGreen" Content="Шаг6" HorizontalAlignment="Left" Margin="30,390,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="ForestGreen" Content="Шаг7" HorizontalAlignment="Left" Margin="30,435,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="ForestGreen" Content="Шаг8" HorizontalAlignment="Left" Margin="30,480,0,0" VerticalAlignment="Top" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг9" HorizontalAlignment="Left" Margin="30,526,0,0" VerticalAlignment="Top" Width="141" Height="40"/>
+        <Button Background="ForestGreen" Content="Шаг1" HorizontalAlignment="Center" Margin="30,165,729,395" VerticalAlignment="Center" Width="141" Height="40"/>
+        <Button Background="ForestGreen" Content="Шаг2" HorizontalAlignment="Center" Margin="30,210,729,349" VerticalAlignment="Center" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг3" HorizontalAlignment="Center" Margin="30,256,729,304" VerticalAlignment="Center" Width="141" Height="40"/>
+        <Button Background="ForestGreen" Content="Шаг4" HorizontalAlignment="Center" Margin="30,301,729,258" VerticalAlignment="Center" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг5" HorizontalAlignment="Center" Margin="30,347,729,212" VerticalAlignment="Center" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг6" HorizontalAlignment="Center" Margin="30,393,729,166" VerticalAlignment="Center" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг7" HorizontalAlignment="Center" Margin="30,439,729,120" VerticalAlignment="Center" Width="141" Height="41"/>
+        <Button Background="ForestGreen" Content="Шаг8" HorizontalAlignment="Center" Margin="30,485,729,74" VerticalAlignment="Center" Width="141" Height="41"/>
+        <Button Background="#F07978" Content="Шаг9" HorizontalAlignment="Center" Margin="30,531,729,29" VerticalAlignment="Center" Width="141" Height="40"/>
         <ListBox  Background="#2E1C27" HorizontalAlignment="Center" Height="456" Margin="224,49,28,95" VerticalAlignment="Center" Width="648"/>
         <Image Source="profile.png" Margin="30,21,729,440" VerticalAlignment="Center" HorizontalAlignment="Center" Height="139" Width="141"/>
         <Button Background="#E5B86D" Content="Завершить курс" HorizontalAlignment="Center" Margin="731,526,28,34" VerticalAlignment="Center" Width="141" Height="40" />
+        <Button Background="#E5B86D" Content="Предыдущий шаг" HorizontalAlignment="Center" Margin="224,526,526,34" VerticalAlignment="Center" Width="150" Height="40" Click="Button1_Click"/>
     </Grid>
 </Page>
