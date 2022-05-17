@@ -28,6 +28,11 @@ namespace Smart_book
         {
             NavigationService.Navigate(new Step2());
         }
+
+        private void Button1_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Cours_game_());
+        }
     }
 
 }

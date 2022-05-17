@@ -16,8 +16,8 @@
         <Button Background="ForestGreen" Content="Шаг4" HorizontalAlignment="Center" Margin="30,301,729,258" VerticalAlignment="Center" Width="141" Height="41"/>
         <Button Background="ForestGreen" Content="Шаг5" HorizontalAlignment="Center" Margin="30,347,729,212" VerticalAlignment="Center" Width="141" Height="41"/>
         <Button Background="ForestGreen" Content="Шаг6" HorizontalAlignment="Center" Margin="30,393,729,166" VerticalAlignment="Center" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг7" HorizontalAlignment="Center" Margin="30,439,729,120" VerticalAlignment="Center" Width="141" Height="41"/>
-        <Button Background="Gray" Content="Шаг8" HorizontalAlignment="Center" Margin="30,485,729,74" VerticalAlignment="Center" Width="141" Height="41" Click="Button_Click"/>
+        <Button Background="#8768B5" Content="Шаг7" HorizontalAlignment="Center" Margin="30,439,729,120" VerticalAlignment="Center" Width="141" Height="41"/>
+        <Button Background="#F07978" Content="Шаг8" HorizontalAlignment="Center" Margin="30,485,729,74" VerticalAlignment="Center" Width="141" Height="41" Click="Button_Click"/>
         <Button Background="Gray" Content="Шаг9" HorizontalAlignment="Center" Margin="30,531,729,29" VerticalAlignment="Center" Width="141" Height="40"/>
         <ListBox  Background="#2E1C27" HorizontalAlignment="Center" Height="456" Margin="224,49,28,95" VerticalAlignment="Center" Width="648"/>
         <Image Source="profile.png" Margin="30,21,729,440" VerticalAlignment="Center" HorizontalAlignment="Center" Height="139" Width="141"/>

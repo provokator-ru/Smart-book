@@ -12,8 +12,8 @@
         <TextBlock Background="#2E1C27" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="402,526,232,34" TextWrapping="Wrap" Text="Шаг 3" VerticalAlignment="Center" Width="266" />
         <Button Background="ForestGreen" Content="Шаг1" HorizontalAlignment="Center" Margin="30,165,729,395" VerticalAlignment="Center" Width="141" Height="40"/>
         <Button Background="ForestGreen" Content="Шаг2" HorizontalAlignment="Center" Margin="30,210,729,349" VerticalAlignment="Center" Width="141" Height="41"/>
-        <Button Background="#F07978" Content="Шаг3" HorizontalAlignment="Center" Margin="30,256,729,304" VerticalAlignment="Center" Width="141" Height="40"/>
-        <Button Background="Gray" Content="Шаг4" HorizontalAlignment="Center" Margin="30,301,729,258" VerticalAlignment="Center" Width="141" Height="41" Click="Button_Click"/>
+        <Button Background="#8768B5" Content="Шаг3" HorizontalAlignment="Center" Margin="30,256,729,304" VerticalAlignment="Center" Width="141" Height="40"/>
+        <Button Background="#F07978" Content="Шаг4" HorizontalAlignment="Center" Margin="30,301,729,258" VerticalAlignment="Center" Width="141" Height="41" Click="Button_Click"/>
         <Button Background="Gray" Content="Шаг5" HorizontalAlignment="Center" Margin="30,347,729,212" VerticalAlignment="Center" Width="141" Height="41"/>
         <Button Background="Gray" Content="Шаг6" HorizontalAlignment="Center" Margin="30,393,729,166" VerticalAlignment="Center" Width="141" Height="41"/>
         <Button Background="Gray" Content="Шаг7" HorizontalAlignment="Center" Margin="30,439,729,120" VerticalAlignment="Center" Width="141" Height="41"/>
