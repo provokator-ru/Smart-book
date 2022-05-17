@@ -6,6 +6,6 @@
         xmlns:local="clr-namespace:Smart_book"
         mc:Ignorable="d"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-        Title="Smartbook" Height="600" Width="900">
+        Title="Smartbook" MinHeight="650" MinWidth="950">
     <Frame  Name="MainFrame" Background="White" NavigationUIVisibility="Hidden"/>
 </Window>
